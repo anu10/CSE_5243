@@ -1,5 +1,0 @@
-bread,jelly,peanutbutter
-bread,peanutbutter
-bread,milk,peanutbutter
-beer,bread
-beer,milk
